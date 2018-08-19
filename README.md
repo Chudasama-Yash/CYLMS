@@ -1,4 +1,6 @@
 # CYLMS
+ ![CY LOGO](https://github.com/Chudasama-Yash/CYLMS/blob/master/images/logo.png)
+
 This is a library management system using VisualBasic.NET.
 
 #Requirements 
@@ -7,6 +9,4 @@ This is a library management system using VisualBasic.NET.
  -> Windows 7/8/10
  
  Link To Download Access Database Engine 2010 x86 -> https://www.microsoft.com/en-in/download/details.aspx?id=13255
- 
- ![Activity Diagram](https://github.com/Chudasama-Yash/CYLMS/blob/master/images/logo.png)
-    
+     
